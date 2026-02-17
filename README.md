@@ -11,7 +11,7 @@ This project demonstrates modern frontend development concepts and clean UI desi
 
 ## 🚀 Live Demo
 
-👉 Add your deployed project link here
+👉 https://atyam-pravallika.github.io/Quiz_App/
 
 ## ✨ Features
 

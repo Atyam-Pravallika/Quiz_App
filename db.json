@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Which language runs in a browser?",
+    "options": ["Java", "C", "Python", "JavaScript"],
+    "correct": 3
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Central Style Sheets", "Cascading Style Sheets", "Cascading Simple Sheets", "None"],
+    "correct": 1
+  },
+  {
+    "question": "Which company developed Java?",
+    "options": ["Microsoft", "Sun Microsystems", "Google", "Apple"],
+    "correct": 1
+  },
+  {
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": [
+      "<link>",
+      "<href>",
+      "<a>",
+      "<hyperlink>"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which method is used to fetch data in JavaScript?",
+    "options": [
+      "getData()",
+      "fetch()",
+      "retrieve()",
+      "request()"
+    ],
+    "correct": 1
+  }
+]
